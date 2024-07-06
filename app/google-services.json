@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064709637608",
+    "project_id": "uforia-29f94",
+    "storage_bucket": "uforia-29f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064709637608:android:246c671f523b8c29e3905d",
+        "android_client_info": {
+          "package_name": "com.example.uforia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4UIg0lnmA7dVcc5pBhS8bc6jowB2FLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
