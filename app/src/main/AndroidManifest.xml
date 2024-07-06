@@ -21,6 +21,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MypageActivity"></activity>
+        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".RegisterComActivity"></activity>
+        <activity android:name=".GroupAddActivity"></activity>
+        <activity android:name=".GrouppageActivity"></activity>
+        <activity android:name=".MemberAddActivity"></activity>
+        <activity android:name=".MemberComActivity"></activity>
+        <activity android:name=".RoleSetActivity"></activity>
+        <activity android:name=".RoleChooseActivity"></activity>
+        <activity android:name=".RoleRandomActivity"></activity>
+        <activity android:name=".RoleComActivity"></activity>
+        <activity android:name=".MeetingAddActivity"></activity>
+        <activity android:name=".MeetingComActivity"></activity>
+        <activity android:name=".ResourceActivity"></activity>
+        <activity android:name=".ResourceAddActivity"></activity>
+        <activity android:name=".ResourceComActivity"></activity>
     </application>
 
 </manifest>
